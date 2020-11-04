@@ -16,12 +16,11 @@
 <body>
     <div id="top">
         <img id="logo" src="img/d407e298634635.Y3JvcCwxMTkyLDkzMywxMDMsMA.jpg" alt="logo">
-        <p id="chophouse">CHOPHOUSE</p>
+        <a class="nav-link" href="index.php" id="chophouse">CHOPHOUSE</a>
     </div>
     <hr class="rgba-white-light" style="margin: 0%;">
     <nav class="navbar navbar-expand-sm   navbar-light " id="nav">
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03"
-            aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
@@ -42,162 +41,156 @@
         </div>
     </nav>
     <hr class="rgba-white-light" style="margin: 0 15%;"><br>
-    <p class="text-center" style="font-size: 30px; background-color: rgb(148, 142, 134); color: white;">
+    <p class="text-center" style="font-size: 34px; background-color: rgb(148, 142, 134); color: white;">
         What we have.
     </p>
-    <div class="container pos2">
-        <div class="row">
-            <div class="col-md">
-                <div class="card" style="width: 20rem;">
-                    <img class="card-img-top" src="img/Twitter327902f.jpg" alt="Card image cap" height="250px">
-                    <div class="card-body">
-                        <h4 class="card-title">Spicy Gizzard</h4>
-                        <p class="card-text">Some quick example text to build on the card title and make up the
-                            bulk of the
-                            card's content.</p>
+    <div style="font-family: Courier New, Courier, monospace;">
+        <div class="container pos2">
+            <div class="row">
+                <div class="col-md">
+                    <div class="card" style="width: 20rem; height: 550px;">
+                        <img class="card-img-top" src="img/Twitter327902f.jpg" alt="Card image cap" height="250px">
+                        <div class="card-body">
+                            <h4 class="card-title">Vegetable Sandwich</h4>
+                            <p class="card-text" style="font-family: Courier New, Courier, monospace; font-size: 18px">Stacked high with slices of tomato, onion, cucumber,
+                                and provolone cheese, this is a vegetable sandwich you will love.</p>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="col-md">
-                <div class="card" style="width: 20rem;">
-                    <img class="card-img-top" src="img/Twitter9071cf8 (1).jpg" alt="Card image cap" height="250px">
-                    <div class="card-body">
-                        <h4 class="card-title">Eggos</h4>
-                        <p class="card-text">Some quick example text to build on the card title and make up the
-                            bulk of the
-                            card's content.</p>
+                <div class="col-md">
+                    <div class="card" style="width: 20rem; height: 550px">
+                        <img class="card-img-top" src="img/Twitter9071cf8 (1).jpg" alt="Card image cap" height="250px">
+                        <div class="card-body">
+                            <h4 class="card-title">Eggos</h4>
+                            <p class="card-text" style="font-family: Courier New, Courier, monospace; font-size: 18px">Egg sauce is a versatile dish, which can be prepared in a variety
+                                of ways. Adding freshly chopped fluted pumpkin leaves or spinach is one of
+                                the various ways to enjoy this sauce.</p>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="col-md">
-                <div class="card" style="width: 20rem;">
-                    <img class="card-img-top" src="img/IMG_20180825_164419.jpg" alt="Card image cap" height="250px">
-                    <div class="card-body">
-                        <h4 class="card-title">Lemina</h4>
-                        <p class="card-text">Some quick example text to build on the card title and make up the
-                            bulk of the
-                            card's content.</p>
-                        
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="container pos2">
-        <div class="row">
-            <div class="col-md">
-                <div class="card" style="width: 20rem;">
-                    <img class="card-img-top" src="img/IMG_20181010_144843.jpg" alt="Card image cap" height="250px">
-                    <div class="card-body">
-                        <h4 class="card-title">Saffron</h4>
-                        <p class="card-text">Some quick example text to build on the card title and make up the
-                            bulk of the
-                            card's content.</p>
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-md">
-                <div class="card" style="width: 20rem;">
-                    <img class="card-img-top" src="img/Twittere16cd44.jpg" alt="Card image cap" height="250px">
-                    <div class="card-body">
-                        <h4 class="card-title">Kale</h4>
-                        <p class="card-text">Some quick example text to build on the card title and make up the
-                            bulk of the
-                            card's content.</p>
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="col-md">
-                <div class="card" style="width: 20rem;">
-                    <img class="card-img-top" src="img/Twitter485878d-1.jpg" alt="Card image cap" height="250px">
-                    <div class="card-body">
-                        <h4 class="card-title">Vege noodles</h4>
-                        <p class="card-text">Some quick example text to build on the card title and make up the
-                            bulk of the
-                            card's content.</p>
-                        
+                <div class="col-md">
+                    <div class="card" style="width: 20rem; height: 550px">
+                        <img class="card-img-top" src="img/IMG_20180825_164419.jpg" alt="Card image cap" height="250px">
+                        <div class="card-body">
+                            <h4 class="card-title">Lemina</h4>
+                            <p class="card-text" style="font-family: Courier New, Courier, monospace; font-size: 18px">Marinating the meat in a heavy zip-lock bag is efficient, but you
+                                can also use a large bowl or baking dish; turn pieces in marinade to coat,
+                                then cover and chill, turning pieces occasionally.</p>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-    <div class="container pos2">
-        <div class="row">
-            <div class="col-md">
-                <div class="card" style="width: 20rem;">
-                    <img class="card-img-top" src="img/IMG_20180901_012932.jpg" alt="Card image cap" height="250px">
-                    <div class="card-body">
-                        <h4 class="card-title">Custard Slice</h4>
-                        <p class="card-text">Some quick example text to build on the card title and make up the
-                            bulk of the
-                            card's content.</p>
-                        
+        <div class="container pos2">
+            <div class="row">
+                <div class="col-md">
+                    <div class="card" style="width: 20rem; height: 550px">
+                        <img class="card-img-top" src="img/IMG_20181010_144843.jpg" alt="Card image cap" height="250px">
+                        <div class="card-body">
+                            <h4 class="card-title">Saffron</h4>
+                            <p class="card-text" style="font-family: Courier New, Courier, monospace; font-size: 18px">This is a quick sauce i made with lot of spicies
+                                it is quick and yummy especially when paired with boiled white rice.</p>
+
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="col-md">
-                <div class="card" style="width: 20rem;">
-                    <img class="card-img-top" src="img/IMG_20180901_012938.jpg" alt="Card image cap" height="250px">
-                    <div class="card-body">
-                        <h4 class="card-title">Custard slice & steak</h4>
-                        <p class="card-text">Some quick example text to build on the card title and make up the
-                            bulk of the
-                            card's content.</p>
-                        
+                <div class="col-md">
+                    <div class="card" style="width: 20rem; height: 550px">
+                        <img class="card-img-top" src="img/Twittere16cd44.jpg" alt="Card image cap" height="250px">
+                        <div class="card-body">
+                            <h4 class="card-title">Soy sauced noodles</h4>
+                            <p class="card-text" style="font-family: Courier New, Courier, monospace; font-size: 18px">Straight from the pan. Easiest noodle recipe ever: Stir-fried
+                                Chinese soy sauce noodles with onion!</p>
+
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="col-md">
-                <div class="card" style="width: 20rem;">
-                    <img class="card-img-top" src="img/IMG_20180901_012944.jpg" alt="Card image cap" height="250px">
-                    <div class="card-body">
-                        <h4 class="card-title">Vege slice</h4>
-                        <p class="card-text">Some quick example text to build on the card title and make up the
-                            bulk of the
-                            card's content.</p>
-                        
+                <div class="col-md">
+                    <div class="card" style="width: 20rem; height: 550px">
+                        <img class="card-img-top" src="img/Twitter485878d-1.jpg" alt="Card image cap" height="250px">
+                        <div class="card-body">
+                            <h4 class="card-title">Vege noodles</h4>
+                            <p class="card-text" style="font-family: Courier New, Courier, monospace; font-size: 18px">an easy and simple vegetable-based noodles recipe made with simple
+                                plain wheat noodles. it's a popular indo chinese version of noodles recipe made
+                                with lots of veggies.</p>
+
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-    <div class="container pos2">
-        <div class="row">
-            <div class="col-md">
-                <div class="card" style="width: 20rem;">
-                    <img class="card-img-top" src="img/IMG_20180901_012927.jpg" alt="Card image cap" height="250px">
-                    <div class="card-body">
-                        <h4 class="card-title">Strawberry cake</h4>
-                        <p class="card-text">Some quick example text to build on the card title and make up the
-                            bulk of the
-                            card's content.</p>
-                        
+        <div class="container pos2">
+            <div class="row">
+                <div class="col-md">
+                    <div class="card" style="width: 20rem; height: 550px">
+                        <img class="card-img-top" src="img/IMG_20180901_012932.jpg" alt="Card image cap" height="250px">
+                        <div class="card-body">
+                            <h4 class="card-title">Custard Slice</h4>
+                            <p class="card-text" style="font-family: Courier New, Courier, monospace; font-size: 18px">A Korean classic sweet soft bread stuffed with a simple buttercream
+                                for a sweet afternoon snack.</p>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md">
+                    <div class="card" style="width: 20rem; height: 550px">
+                        <img class="card-img-top" src="img/IMG_20180901_012938.jpg" alt="Card image cap" height="250px">
+                        <div class="card-body">
+                            <h4 class="card-title">Custard slice & steak</h4>
+                            <p class="card-text" style="font-family: Courier New, Courier, monospace; font-size: 18px">A Korean classic sweet soft bread stuffed with a simple buttercream and steak
+                                for a sweet afternoon snack.</p>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md">
+                    <div class="card" style="width: 20rem; height: 550px">
+                        <img class="card-img-top" src="img/IMG_20180901_012944.jpg" alt="Card image cap" height="250px">
+                        <div class="card-body">
+                            <h4 class="card-title">Vege slice</h4>
+                            <p class="card-text" style="font-family: Courier New, Courier, monospace; font-size: 18px">Half sandwich with spiced vegetables on the top very healthy and
+                                nutrotional snack.
+                            </p>
+
+                        </div>
                     </div>
                 </div>
             </div>
-            <div class="col-md">
-                <div class="card" style="width: 20rem;">
-                    <img class="card-img-top" src="img/IMG_20181010_144851.jpg" alt="Card image cap" height="250px">
-                    <div class="card-body">
-                        <h4 class="card-title">Sauced Dogs</h4>
-                        <p class="card-text">Some quick example text to build on the card title and make up the
-                            bulk of the
-                            card's content.</p>
-                        
+        </div>
+        <div class="container pos2">
+            <div class="row">
+                <div class="col-md">
+                    <div class="card" style="width: 20rem; height: 550px">
+                        <img class="card-img-top" src="img/IMG_20180901_012927.jpg" alt="Card image cap" height="250px">
+                        <div class="card-body">
+                            <h4 class="card-title">Strawberry cake</h4>
+                            <p class="card-text" style="font-family: Courier New, Courier, monospace; font-size: 18px">The one thing that sets this strawberry cake apart from others? Reduce
+                                fresh strawberry puree down and add to the best white cake batter. Kiss your boxed
+                                strawberry cake buh-bye.</p>
+
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="col-md">
-                <div class="card" style="width: 20rem;">
-                    <img class="card-img-top" src="img/IMG_20180920_075135.jpg" alt="Card image cap" height="250px">
-                    <div class="card-body">
-                        <h4 class="card-title">Mexi not</h4>
-                        <p class="card-text">Some quick example text to build on the card title and make up the
-                            bulk of the
-                            card's content.</p>
-                        
+                <div class="col-md">
+                    <div class="card" style="width: 20rem; height: 550px">
+                        <img class="card-img-top" src="img/IMG_20181010_144851.jpg" alt="Card image cap" height="250px">
+                        <div class="card-body">
+                            <h4 class="card-title">Sauced Dogs</h4>
+                            <p class="card-text" style="font-family: Courier New, Courier, monospace; font-size: 18px">Whoa-ho-hoaaa. This Spicy Sausage Rigatoni + a smooth glass of Barefoot
+                                Rich Red Blend is my newest, bestest friend.</p>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md">
+                    <div class="card" style="width: 20rem; height: 550px">
+                        <img class="card-img-top" src="img/IMG_20180920_075135.jpg" alt="Card image cap" height="250px">
+                        <div class="card-body">
+                            <h4 class="card-title">Mexi not</h4>
+                            <p class="card-text" style="font-family: Courier New, Courier, monospace; font-size: 18px">Pizza sauce doesn't have to be tomato-based one-hundred percent of
+                                the time.</p>
+
+                        </div>
                     </div>
                 </div>
             </div>
@@ -230,15 +223,10 @@
             <hr class="rgba-white-light" style="margin: 0 15%;">
             <div class="row d-flex text-center justify-content-center mb-md-0 mb-4">
                 <div class="col-md-8 col-12 mt-5">
-                    <p style="line-height: 1.7rem">Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                        accusantium doloremque laudantium, totam rem
-                        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt
-                        explicabo.
-                        Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-                        consequuntur.</p>
+                    <p style="line-height: 1.7rem">ADDRESS - 29A USUMA STREET MAITAMA, ABUJA.</p>
+                    <p style="line-height: 1.7rem">OPENING HOURS - EVERYDAY : 9AM - 9PM </p>
                 </div>
             </div>
-            <hr class="clearfix d-md-none rgba-white-light" style="margin: 10% 15% 5%;">
             <div class="row pb-3" id="icon">
                 <div class="col-md-12">
 
@@ -275,10 +263,10 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
     <script type="text/javascript">
-        $(document).ready(function () {
-            $('.navbar-light .dmenu').hover(function () {
+        $(document).ready(function() {
+            $('.navbar-light .dmenu').hover(function() {
                 $(this).find('.sm-menu').first().stop(true, true).slideDown(150);
-            }, function () {
+            }, function() {
                 $(this).find('.sm-menu').first().stop(true, true).slideUp(105)
             });
         });

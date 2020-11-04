@@ -16,26 +16,23 @@
 <body>
     <div id="top">
         <img id="logo" src="img/d407e298634635.Y3JvcCwxMTkyLDkzMywxMDMsMA.jpg" alt="logo">
-        <p id="chophouse">CHOPHOUSE</p>
+        <a class="nav-link" href="index.php" id="chophouse">CHOPHOUSE</a>
     </div>
     <hr class="rgba-white-light" style="margin: 0%;">
     <nav class="navbar navbar-expand-sm   navbar-light " id="nav">
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03"
-            aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
             <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
                 <li class="nav-item">
-                    <a class="nav-link" href="index.php">HOME <span class="sr-only">(current)</span></a>
+                    <a class="nav-link" href="index.php">HOME </a>
                 </li>
-                <li class="nav-item">
                 <li class="nav-item">
                     <a class="nav-link" href="recipe.php">RECIPES</a>
                 </li>
-                </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="about.php">ABOUT</a>
+                    <a class="nav-link" href="about.php">ABOUT <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="Contact.php">CONTACT US</a>
@@ -43,27 +40,21 @@
             </ul>
         </div>
     </nav>
-    <hr class="rgba-white-light" style="margin: 0 15%;">
-    <div class="col-md-12" id="middle">
-        <div class="row">
-            <div class="col-md-1"></div>
-        <div class="col-md-5" id="brown">
-            <p><br><br><br>
-                <br><img src="img/action-2277292.jpg" id="paul" width="450px" height="400px">
+    <hr class="rgba-white-light" style="margin: 0 15%;"><br>
+    <div class="col-md-12">
+        <div class="col-md-10" id="about"><br>
+            <p class="display-4 text-center">
+                ABOUT US
             </p>
         </div>
-        <div class="col-md-5" id="aboutme">
-            <h3 class="hny-title">
-                About Us<span class="dot-1">.</span>
-            </h3>
-            <hr>
-            <p id="me"> 
+        <div id="aboutme">
+            <p id="talk">
                 It all started in the year 2020 ... Would you believe we started out as <br>
-                a small chain  of convenience stores? <br>
-                It's true. Way back in 1958. We were called Eatclub. In 2019, our founder <br> 
+                a small chain of convenience stores? <br>
+                It's true. Way back in 1958. We were called Eatclub. In 2019, our founder <br>
                 Miles Munroe, changed our name(yes, to Chophouse) adn the way we do business <br>
                 <br>
-                We made the restaurants bigger, decked the walls  with cedar planks and   <br>
+                We made the restaurants bigger, decked the walls with cedar planks and <br>
                 and donned our crew in cool red swahili shirts. Most importantly we started <br>
                 packaging innovative, hard-to-find, great-tasting foods under the "Chophouse".<br>
                 That cut our costs and saved you money. Still does. And that's important, <br>
@@ -72,13 +63,31 @@
                 just trying to serve the best at all times.
             </p>
         </div>
-        <div class="col-md-1"></div>
-        </div>
     </div><br><br>
     <hr class="rgba-white-light" style="margin: 0 15%;">
-    <div class=""><br><br>
-        <img src="img/Chefs.jpg" class="img-fluid" alt="Responsive image" width="600px" height="600px"
-            style="margin-left: 30%;">
+    <div class="col-md-12">
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-5" id="aboutme"><br><br><br>
+                <h3 class="hny-title" style="background-color: rgb(173, 143, 128); padding: 15px">
+                    Our Kitchen<span class="dot-1"></span>
+                </h3>
+                <hr>
+                <p id="talk">
+                    With a culture of internal development and an individual approach to career planning, <br>
+                    we support and encourage our employees to shape their own future and grow with the <br>
+                    company. We also groom our staff to take up leadership positions where they can <br>
+                    showcase experience garnered from cross-functional work relationships within <br>
+                    our system. Do you want to find out more on our Career Development?
+                </p>
+            </div>
+            <div class="col-md-5" id="brown">
+                <p><br><br><br>
+                    <br><img src="img/chefs.jpg" id="paul" width="600px" height="500px">
+                </p>
+            </div>
+            <div class="col-md-1"></div>
+        </div>
     </div><br>
     <footer class="page-footer font-small indigo" style="background-color: rgb(83, 81, 81); color: white;">
         <div class="container">
@@ -107,15 +116,10 @@
             <hr class="rgba-white-light" style="margin: 0 15%;">
             <div class="row d-flex text-center justify-content-center mb-md-0 mb-4">
                 <div class="col-md-8 col-12 mt-5">
-                    <p style="line-height: 1.7rem">Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                        accusantium doloremque laudantium, totam rem
-                        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt
-                        explicabo.
-                        Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-                        consequuntur.</p>
+                    <p style="line-height: 1.7rem">ADDRESS - 29A USUMA STREET MAITAMA, ABUJA.</p>
+                    <p style="line-height: 1.7rem">OPENING HOURS - EVERYDAY : 9AM - 9PM </p>
                 </div>
             </div>
-            <hr class="clearfix d-md-none rgba-white-light" style="margin: 10% 15% 5%;">
             <div class="row pb-3" id="icon">
                 <div class="col-md-12">
 
@@ -152,10 +156,10 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
     <script type="text/javascript">
-        $(document).ready(function () {
-            $('.navbar-light .dmenu').hover(function () {
+        $(document).ready(function() {
+            $('.navbar-light .dmenu').hover(function() {
                 $(this).find('.sm-menu').first().stop(true, true).slideDown(150);
-            }, function () {
+            }, function() {
                 $(this).find('.sm-menu').first().stop(true, true).slideUp(105)
             });
         });
